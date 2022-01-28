@@ -1,4 +1,4 @@
 ## Author : Saurabh 
 
-# CGANc
+# CGANs
 Conditinal Generative Adversarial Networks
